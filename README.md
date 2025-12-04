@@ -60,4 +60,6 @@ pip install numpy pandas scikit-learn matplotlib
 python test.py
 ```
 
-Observação: os dados de exemplo são perfeitamente lineares; em casos reais utilize um dataset mais representativo e avalie múltiplas métricas e modelos.
+## 📌 Observação
+Os dados utilizados são totalmente lineares e artificiais, servindo apenas para fins de demonstração.
+Para aplicações reais, utilize um dataset maior e mais variado, além de testar diferentes métricas e modelos.
