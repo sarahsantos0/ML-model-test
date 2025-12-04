@@ -20,8 +20,7 @@ Projeto simples e educacional que demonstra como treinar um modelo de Regressão
 ```markdown
 .
 ├── test.py          # Script principal (dataset, treino, avaliação e gráficos)
-├── README.md        # Documentação do projeto
-└── requirements.txt # Dependências (opcional)
+└── README.md        # Documentação do projeto
 ```
 
 
